@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Titpe21\CreateTitpe\CreateTitpe\bin\Debug\netcoreapp3.1\CreateTitpe.exe
+C:\Users\opilane\source\repos\Titpe21\CreateTitpe\CreateTitpe\bin\Debug\netcoreapp3.1\CreateTitpe.deps.json
+C:\Users\opilane\source\repos\Titpe21\CreateTitpe\CreateTitpe\bin\Debug\netcoreapp3.1\CreateTitpe.runtimeconfig.json
+C:\Users\opilane\source\repos\Titpe21\CreateTitpe\CreateTitpe\bin\Debug\netcoreapp3.1\CreateTitpe.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Titpe21\CreateTitpe\CreateTitpe\bin\Debug\netcoreapp3.1\CreateTitpe.dll
+C:\Users\opilane\source\repos\Titpe21\CreateTitpe\CreateTitpe\bin\Debug\netcoreapp3.1\CreateTitpe.pdb
+C:\Users\opilane\source\repos\Titpe21\CreateTitpe\CreateTitpe\obj\Debug\netcoreapp3.1\CreateTitpe.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Titpe21\CreateTitpe\CreateTitpe\obj\Debug\netcoreapp3.1\CreateTitpe.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Titpe21\CreateTitpe\CreateTitpe\obj\Debug\netcoreapp3.1\CreateTitpe.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Titpe21\CreateTitpe\CreateTitpe\obj\Debug\netcoreapp3.1\CreateTitpe.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Titpe21\CreateTitpe\CreateTitpe\obj\Debug\netcoreapp3.1\CreateTitpe.dll
+C:\Users\opilane\source\repos\Titpe21\CreateTitpe\CreateTitpe\obj\Debug\netcoreapp3.1\CreateTitpe.pdb
+C:\Users\opilane\source\repos\Titpe21\CreateTitpe\CreateTitpe\obj\Debug\netcoreapp3.1\CreateTitpe.genruntimeconfig.cache
